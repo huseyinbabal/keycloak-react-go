@@ -1,0 +1,11 @@
+body { margin: 0; font-family: system-ui, sans-serif; background: #f4f1ea; color: #222; }
+main { max-width: 1160px; margin: 60px auto; padding: 0 24px; font-size: 22px; }
+h1 { font-size: 56px; margin-bottom: 24px; }
+button { font-size: 22px; padding: 12px 24px; margin-right: 12px; border: 0; border-radius: 8px; background: #2f5d50; color: #fff; cursor: pointer; }
+ul { padding: 0; list-style: none; }
+li { background: #fff; margin: 12px 0; padding: 18px 22px; border-radius: 8px; }
+li span { color: #777; margin-left: 10px; }
+.error { color: #b3261e; font-weight: 600; }
+pre { background: #1e1e1e; color: #d4d4d4; padding: 18px 22px; border-radius: 8px; font-size: 18px; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; align-items: start; margin-top: 12px; }
+li { font-size: 20px; }
